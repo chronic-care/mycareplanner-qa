@@ -1,25 +1,25 @@
 {
   "files": {
-    "static/js/0.30424bcc.chunk.js": "/mycareplanner/static/js/0.30424bcc.chunk.js",
-    "launch.js": "/mycareplanner/static/js/launch.51bff45f.chunk.js",
-    "main.css": "/mycareplanner/static/css/main.5762b350.chunk.css",
-    "main.js": "/mycareplanner/static/js/main.408f7575.chunk.js",
-    "runtime-launch.js": "/mycareplanner/static/js/runtime-launch.d80f08ae.js",
-    "runtime-main.js": "/mycareplanner/static/js/runtime-main.69118ab0.js",
-    "static/css/5.3fac59f9.chunk.css": "/mycareplanner/static/css/5.3fac59f9.chunk.css",
-    "static/js/5.11ee52da.chunk.js": "/mycareplanner/static/js/5.11ee52da.chunk.js",
-    "index.html": "/mycareplanner/index.html",
-    "launch.html": "/mycareplanner/launch.html",
-    "precache-manifest.dadac6bbbe7eb3fae7c43fa5d21be93b.js": "/mycareplanner/precache-manifest.dadac6bbbe7eb3fae7c43fa5d21be93b.js",
-    "service-worker.js": "/mycareplanner/service-worker.js",
-    "static/js/5.11ee52da.chunk.js.LICENSE.txt": "/mycareplanner/static/js/5.11ee52da.chunk.js.LICENSE.txt"
+    "static/js/0.66ef0671.chunk.js": "/mycareplanner-qa/static/js/0.66ef0671.chunk.js",
+    "launch.js": "/mycareplanner-qa/static/js/launch.39054b97.chunk.js",
+    "main.css": "/mycareplanner-qa/static/css/main.5762b350.chunk.css",
+    "main.js": "/mycareplanner-qa/static/js/main.9573c75b.chunk.js",
+    "runtime-launch.js": "/mycareplanner-qa/static/js/runtime-launch.22279828.js",
+    "runtime-main.js": "/mycareplanner-qa/static/js/runtime-main.2a90d2ef.js",
+    "static/css/5.3fac59f9.chunk.css": "/mycareplanner-qa/static/css/5.3fac59f9.chunk.css",
+    "static/js/5.012e1cb6.chunk.js": "/mycareplanner-qa/static/js/5.012e1cb6.chunk.js",
+    "index.html": "/mycareplanner-qa/index.html",
+    "launch.html": "/mycareplanner-qa/launch.html",
+    "precache-manifest.60df8ae3d07c37c32d798906cc9a61df.js": "/mycareplanner-qa/precache-manifest.60df8ae3d07c37c32d798906cc9a61df.js",
+    "service-worker.js": "/mycareplanner-qa/service-worker.js",
+    "static/js/5.012e1cb6.chunk.js.LICENSE.txt": "/mycareplanner-qa/static/js/5.012e1cb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.69118ab0.js",
-    "static/js/0.30424bcc.chunk.js",
+    "static/js/runtime-main.2a90d2ef.js",
+    "static/js/0.66ef0671.chunk.js",
     "static/css/5.3fac59f9.chunk.css",
-    "static/js/5.11ee52da.chunk.js",
+    "static/js/5.012e1cb6.chunk.js",
     "static/css/main.5762b350.chunk.css",
-    "static/js/main.408f7575.chunk.js"
+    "static/js/main.9573c75b.chunk.js"
   ]
 }
