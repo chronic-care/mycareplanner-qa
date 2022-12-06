@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f439eaf5f43d41f8ddc5800f13390bdd",
+    "revision": "78188d1ad8ceb0ea1127630da15f77f2",
     "url": "/mycareplanner-qa/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mycareplanner-qa/static/css/5.3fac59f9.chunk.css"
   },
   {
-    "revision": "b325452253fcabc44263",
+    "revision": "0676e765b7c0a039b59f",
     "url": "/mycareplanner-qa/static/css/main.5afc21ec.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mycareplanner-qa/static/js/launch.e4232fdc.chunk.js"
   },
   {
-    "revision": "b325452253fcabc44263",
-    "url": "/mycareplanner-qa/static/js/main.b745675e.chunk.js"
+    "revision": "0676e765b7c0a039b59f",
+    "url": "/mycareplanner-qa/static/js/main.bcacb48a.chunk.js"
   },
   {
     "revision": "4f0a5c175331dec27a32",
